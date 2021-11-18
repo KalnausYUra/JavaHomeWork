@@ -61,7 +61,7 @@ private String fullName;
         this.phoneNumber = phoneNumber;
     }
 
-    public void takeBook(int numberBooks ) {
+    public void takeBook(int numberBooks )  {
     System.out.println(fullName + " взял " + numberBooks + " книги");
     }
 

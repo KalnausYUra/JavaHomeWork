@@ -27,9 +27,11 @@ public class Bingo {
                 break;
 
             } else if (Integer.valueOf(a) > randoms) {
-                System.out.println("Введеное Вами число больше загаданого программой");
+              //  System.out.println("Введеное Вами число больше загаданого программой");
+                System.out.println(Integer.valueOf(a) + " > ?");
             } else
-                System.out.println("Введеное Вами число меньше загаданого программой");
+           //     System.out.println("Введеное Вами число меньше загаданого программой");
+            System.out.println(Integer.valueOf(a) + " < ?");
 
         }
     }

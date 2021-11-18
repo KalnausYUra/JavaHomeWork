@@ -32,6 +32,12 @@ else {
             }
         }
 
+
+        //(int j = 0;j<animals.;j++){
+
+
+      //  }
+
 // Рефлексия. Объект класса Veterinarian создайте с помощью рефлексии.
         Class c = vet.getClass();
         System.out.println("NameClass = " + c.getName());
@@ -42,5 +48,8 @@ else {
         System.out.println(field.get(vet));
         field.set(vet, 15);
         System.out.println(field.get(vet)); // получилось, изменили.
+
+
+
     }
 }
