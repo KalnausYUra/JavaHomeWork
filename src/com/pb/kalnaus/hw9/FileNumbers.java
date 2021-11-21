@@ -7,8 +7,8 @@ import java.util.Scanner;
 public class FileNumbers {
 
     public static void main(String[] args) throws IOException {
-        File f = createNumbersFile();
-        createOddNumbersFile(f);
+        File createfile = createNumbersFile();
+        createOddNumbersFile(createfile);
     }
 
     private static File createNumbersFile() throws IOException {
