@@ -1,0 +1,13 @@
+[ {
+  "f_I_O" : "sdfsdf",
+  "b_Day" : "2020-12-12",
+  "phones" : [ 34242 ],
+  "address" : "sadfsf",
+  "date_edit" : "2021-12-13_23:33:52"
+}, {
+  "f_I_O" : "dfgdfg",
+  "b_Day" : "2012-12-12",
+  "phones" : [ 234234, 23432, 234 ],
+  "address" : "asdsad",
+  "date_edit" : "2021-12-13_23:34:02"
+} ]
