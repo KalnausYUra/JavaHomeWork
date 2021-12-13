@@ -1,40 +1,22 @@
 [
   {
     "f_I_O": "Kalnaus",
-    "b_Day": "1991-04-12",
+    "b_Day": "2020-12-12",
     "phones": [
+      98765777
+    ],
+    "address": "dssfsd",
+    "date_edit": "2021-12-13_23:54:52"
+  },
+  {
+    "f_I_O": "zinasss",
+    "b_Day": "2029-12-13",
+    "phones": [
+      324242,
       2342342,
-      2342343,
       234234
     ],
-    "address": "asdadsa",
-    "date_edit": "2021-12-13_23:39:57"
-  },
-  {
-    "f_I_O": "dgdgdf",
-    "b_Day": "2020-12-12",
-    "phones": [
-      234543
-    ],
-    "address": "fsddfsf",
-    "date_edit": "2021-12-13_23:40:23"
-  },
-  {
-    "f_I_O": "2014-12-12",
-    "b_Day": "2020-12-12",
-    "phones": [
-      23423432
-    ],
-    "address": "sdfdsf",
-    "date_edit": "2021-12-13_23:40:47"
-  },
-  {
-    "f_I_O": "vdfsdr",
-    "b_Day": "1212-12-04",
-    "phones": [
-      2342342
-    ],
-    "address": "asdasd",
-    "date_edit": "2021-12-13_23:41:03"
+    "address": "wwfsdsdfs",
+    "date_edit": "2021-12-13_23:55:08"
   }
 ]

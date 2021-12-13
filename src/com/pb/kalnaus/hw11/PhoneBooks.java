@@ -100,7 +100,7 @@ public class PhoneBooks {
         return result;
     }
 
-
+//сортировки
     static class PhoneBooks_B_DAY_Compare implements Comparator<PhoneBooks> {
         public int compare(PhoneBooks a, PhoneBooks b) {
             return a.getB_Day().compareTo(b.getB_Day());
